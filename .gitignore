@@ -1,2 +1,4 @@
 secrets.py
 config.py
+.idea/
+__pycache__/
